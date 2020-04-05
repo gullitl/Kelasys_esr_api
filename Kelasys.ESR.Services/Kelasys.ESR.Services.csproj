@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kelasys.ESR.Contract\Kelasys.ESR.Contract.csproj" />
+    <ProjectReference Include="..\Kelasys.ESR.DataAccess\Kelasys.ESR.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

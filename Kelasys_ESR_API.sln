@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kelalsys.ESR.StartupApp", "StartupApp\Kelalsys.ESR.StartupApp.csproj", "{841A4782-33F1-4E94-92DA-D0DFE8659DFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kelasys.ESR.Entity", "Kelasys.ESR.Entity\Kelasys.ESR.Entity.csproj", "{3BD6BD25-58FB-4CFF-80F8-302023E3E468}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kelasys.ESR.Contract", "Kelasys.ESR.Contract\Kelasys.ESR.Contract.csproj", "{42E5B499-519A-4A7D-AFAA-EE90AA59063B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kelasys.ESR.Utils", "Kelasys.ESR.Utils\Kelasys.ESR.Utils.csproj", "{FFEC6236-2E6F-4AAF-B70B-3259B202C139}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kelasys.ESR.DataAccess", "Kelasys.ESR.DataAccess\Kelasys.ESR.DataAccess.csproj", "{3BCCF84A-59AF-4757-AEEB-053D5CDCA18C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kelasys.ESR.Services", "Kelasys.ESR.Services\Kelasys.ESR.Services.csproj", "{189879BD-1C38-43AD-9B84-B341B7613BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841A4782-33F1-4E94-92DA-D0DFE8659DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841A4782-33F1-4E94-92DA-D0DFE8659DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841A4782-33F1-4E94-92DA-D0DFE8659DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841A4782-33F1-4E94-92DA-D0DFE8659DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD6BD25-58FB-4CFF-80F8-302023E3E468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD6BD25-58FB-4CFF-80F8-302023E3E468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD6BD25-58FB-4CFF-80F8-302023E3E468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD6BD25-58FB-4CFF-80F8-302023E3E468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E5B499-519A-4A7D-AFAA-EE90AA59063B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E5B499-519A-4A7D-AFAA-EE90AA59063B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E5B499-519A-4A7D-AFAA-EE90AA59063B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E5B499-519A-4A7D-AFAA-EE90AA59063B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEC6236-2E6F-4AAF-B70B-3259B202C139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEC6236-2E6F-4AAF-B70B-3259B202C139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEC6236-2E6F-4AAF-B70B-3259B202C139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEC6236-2E6F-4AAF-B70B-3259B202C139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCCF84A-59AF-4757-AEEB-053D5CDCA18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCCF84A-59AF-4757-AEEB-053D5CDCA18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCCF84A-59AF-4757-AEEB-053D5CDCA18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCCF84A-59AF-4757-AEEB-053D5CDCA18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189879BD-1C38-43AD-9B84-B341B7613BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189879BD-1C38-43AD-9B84-B341B7613BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189879BD-1C38-43AD-9B84-B341B7613BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189879BD-1C38-43AD-9B84-B341B7613BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1526B6BD-5BB9-4B98-B0E0-9A16D2B586A6}
+	EndGlobalSection
+EndGlobal
