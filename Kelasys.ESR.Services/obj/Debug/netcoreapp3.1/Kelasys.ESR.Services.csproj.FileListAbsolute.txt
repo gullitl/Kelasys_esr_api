@@ -14,3 +14,5 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Servi
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Services\obj\Debug\netcoreapp3.1\Kelasys.ESR.Services.csproj.CopyComplete
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Services\bin\Debug\netcoreapp3.1\Kelasys.ESR.DataAccess.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Services\bin\Debug\netcoreapp3.1\Kelasys.ESR.DataAccess.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Services\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Services\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb

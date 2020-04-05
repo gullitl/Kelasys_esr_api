@@ -634,6 +634,9 @@
         }
       },
       "Kelasys.ESR.Entity/1.0.0": {
+        "dependencies": {
+          "Kelasys.ESR.Utils": "1.0.0"
+        },
         "runtime": {
           "Kelasys.ESR.Entity.dll": {}
         },
@@ -651,6 +654,14 @@
         },
         "compile": {
           "Kelasys.ESR.Services.dll": {}
+        }
+      },
+      "Kelasys.ESR.Utils/1.0.0": {
+        "runtime": {
+          "Kelasys.ESR.Utils.dll": {}
+        },
+        "compile": {
+          "Kelasys.ESR.Utils.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2485,6 +2496,11 @@
       "sha512": ""
     },
     "Kelasys.ESR.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kelasys.ESR.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

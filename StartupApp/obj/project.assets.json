@@ -328,6 +328,9 @@
       "Kelasys.ESR.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Kelasys.ESR.Utils": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Kelasys.ESR.Entity.dll": {}
         },
@@ -347,6 +350,16 @@
         },
         "runtime": {
           "bin/placeholder/Kelasys.ESR.Services.dll": {}
+        }
+      },
+      "Kelasys.ESR.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Kelasys.ESR.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kelasys.ESR.Utils.dll": {}
         }
       }
     }
@@ -959,6 +972,11 @@
       "type": "project",
       "path": "../Kelasys.ESR.Services/Kelasys.ESR.Services.csproj",
       "msbuildProject": "../Kelasys.ESR.Services/Kelasys.ESR.Services.csproj"
+    },
+    "Kelasys.ESR.Utils/1.0.0": {
+      "type": "project",
+      "path": "../Kelasys.ESR.Utils/Kelasys.ESR.Utils.csproj",
+      "msbuildProject": "../Kelasys.ESR.Utils/Kelasys.ESR.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {

@@ -35,7 +35,11 @@ namespace StartupApp.Controllers {
 
         [HttpPost("createprofesseur")]
         public async Task<ActionResult<Professeur>> Create(Professeur professeur) {
-            return await ProfesseurService.Create(professeur);
+            Professeur professeur1 = await ProfesseurService.Create(professeur);
+            if(professeur1 == null) {
+                return BadRequest();
+            }
+            return Created("", professeur1);
         }
 
         [HttpPut("updateprofesseur")]

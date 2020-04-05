@@ -6,3 +6,7 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Entit
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Entity\obj\Debug\netcoreapp3.1\Kelasys.ESR.Entity.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Entity\obj\Debug\netcoreapp3.1\Kelasys.ESR.Entity.pdb
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Entity\obj\Debug\netcoreapp3.1\Kelasys.ESR.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Entity\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Entity\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Entity\obj\Debug\netcoreapp3.1\Kelasys.ESR.Entity.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Entity\obj\Debug\netcoreapp3.1\Kelasys.ESR.Entity.csproj.CopyComplete

@@ -10,3 +10,5 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contr
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contract.csproj.CopyComplete
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contract.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contract.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb

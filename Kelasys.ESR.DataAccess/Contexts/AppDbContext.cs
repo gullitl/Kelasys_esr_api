@@ -1,13 +1,13 @@
 ﻿using Kelasys.ESR.Entity;
 using Microsoft.EntityFrameworkCore;
 
-namespace Kelasys.ESR.DataAccess {
+namespace Kelasys.ESR.DataAccess.Contexts {
     public class AppDbContext : DbContext {
 
         #region DbContext configurations
         public AppDbContext(DbContextOptions options) : base(options) { 
             Database.EnsureCreated();
-            //Database.Migrate();
+            Database.Migrate();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options) {

@@ -253,8 +253,16 @@
         }
       },
       "Kelasys.ESR.Entity/1.0.0": {
+        "dependencies": {
+          "Kelasys.ESR.Utils": "1.0.0"
+        },
         "runtime": {
           "Kelasys.ESR.Entity.dll": {}
+        }
+      },
+      "Kelasys.ESR.Utils/1.0.0": {
+        "runtime": {
+          "Kelasys.ESR.Utils.dll": {}
         }
       }
     }
@@ -451,6 +459,11 @@
       "sha512": ""
     },
     "Kelasys.ESR.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kelasys.ESR.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

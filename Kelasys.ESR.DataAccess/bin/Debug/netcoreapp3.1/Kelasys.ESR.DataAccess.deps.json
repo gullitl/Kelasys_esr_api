@@ -254,8 +254,16 @@
       "System.ComponentModel.Annotations/4.7.0": {},
       "System.Diagnostics.DiagnosticSource/4.7.0": {},
       "Kelasys.ESR.Entity/1.0.0": {
+        "dependencies": {
+          "Kelasys.ESR.Utils": "1.0.0"
+        },
         "runtime": {
           "Kelasys.ESR.Entity.dll": {}
+        }
+      },
+      "Kelasys.ESR.Utils/1.0.0": {
+        "runtime": {
+          "Kelasys.ESR.Utils.dll": {}
         }
       }
     }
@@ -456,6 +464,11 @@
       "hashPath": "system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512"
     },
     "Kelasys.ESR.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kelasys.ESR.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

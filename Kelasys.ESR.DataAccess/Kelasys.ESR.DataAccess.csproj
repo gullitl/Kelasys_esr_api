@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20200405064832_initial.cs" />
+    <Compile Remove="Migrations\20200405064832_initial.Designer.cs" />
+    <Compile Remove="Migrations\20200405065643_initial.cs" />
+    <Compile Remove="Migrations\20200405065643_initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
