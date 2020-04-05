@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.ComponentModel;
 
 namespace Kelasys.ESR.Utils.Enums {
     public enum NiveauAcces {
-        dministrateur,
-        Utilisateur
+        [Description("Administrateur")] Administrateur,
+        [Description("Utilisateur")] Utilisateur
     }
 }

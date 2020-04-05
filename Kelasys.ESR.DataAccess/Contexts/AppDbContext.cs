@@ -5,17 +5,15 @@ namespace Kelasys.ESR.DataAccess.Contexts {
     public class AppDbContext : DbContext {
 
         #region DbContext configurations
-        public AppDbContext(DbContextOptions options) : base(options) { 
+        public AppDbContext(DbContextOptions options) : base(options) {
             Database.EnsureCreated();
-            Database.Migrate();
+            //Database.Migrate();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options) {
             base.OnConfiguring(options);
         }
-        protected override void OnModelCreating(ModelBuilder modelBuilder) {
-            base.OnModelCreating(modelBuilder);
-        }
+
         #endregion
 
         public virtual DbSet<Professeur> Professeurs { get; set; }

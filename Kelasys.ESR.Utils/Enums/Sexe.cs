@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.ComponentModel;
 
 namespace Kelasys.ESR.Utils.Enums {
     public enum Sexe {
-        Feminin, Masculin
+        [Description("Feminin")] Feminin,
+        [Description("Masculin")] Masculin
     }
 }

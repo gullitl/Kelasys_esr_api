@@ -16,5 +16,9 @@
     <ProjectReference Include="..\Kelasys.ESR.Services\Kelasys.ESR.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+  </ItemGroup>
+
 
 </Project>
