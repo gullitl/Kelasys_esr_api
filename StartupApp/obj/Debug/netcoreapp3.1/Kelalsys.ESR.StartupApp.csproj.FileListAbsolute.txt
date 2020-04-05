@@ -1,6 +1,4 @@
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.csprojAssemblyReference.cache
-C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.csproj.CoreCompileInputs.cache
-C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.AssemblyInfoInputs.cache
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.AssemblyInfo.cs
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -36,3 +34,17 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\De
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Services.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Services.pdb
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.DataAccess.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.MvcApplicationPartsAssemblyInfo.cache

@@ -6,3 +6,4 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.AssemblyInfo.cs
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.csprojAssemblyReference.cache

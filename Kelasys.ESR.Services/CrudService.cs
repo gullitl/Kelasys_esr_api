@@ -7,8 +7,8 @@ namespace Kelasys.ESR.Services {
     public abstract class CrudService<TEntity> where TEntity : class {
         private AppDbContext Context { get; }
 
-        public CrudService() {
-            Context = AppDbContext.Instance;
+        public CrudService(AppDbContext context) {
+            Context = context;
         }
         public async Task<TEntity> Create(TEntity tEntity) {
             Context.Set<TEntity>().Add(tEntity);

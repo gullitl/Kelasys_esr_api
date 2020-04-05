@@ -3,6 +3,7 @@ using Kelasys.ESR.DataAccess;
 using Kelasys.ESR.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -27,9 +28,13 @@ namespace StartupApp {
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services) {
-            _ = AppDbContext.Instance;
+
+            //_ = AppDbContext.Instance;
             services.AddControllers();
-            services.AddSingleton<IProfesseurService, ProfesseurService>();
+
+            services.AddDbContext<AppDbContext>(options =>
+            options.UseMySql(Configuration["ConnectionStrings:DefaultConnection"]));
+            services.AddScoped<IProfesseurService, ProfesseurService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
