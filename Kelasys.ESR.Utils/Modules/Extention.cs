@@ -7,7 +7,7 @@ using System.Text;
 namespace Kelasys.ESR.Utils.Modules {
     public static class Extention {
 
-        public static string GetDescription(this Enum value) {
+        public static string GetEnumDescription(this Enum value) {
             FieldInfo fieldInfo = value.GetType().GetField(value.ToString());
             if(fieldInfo == null)
                 return null;

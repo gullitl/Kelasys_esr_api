@@ -11,5 +11,6 @@ namespace Kelasys.ESR.Entity {
         public Sexe Sexe { get; set; }
         public string Photo { get; set; }
         public string Email { get; set; }
+        public Utilisateur Utilisateur { get; set; }
     }
 }
