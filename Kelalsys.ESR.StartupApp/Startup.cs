@@ -33,7 +33,7 @@ namespace StartupApp {
             services.AddControllers();
 
             services.AddDbContext<AppDbContext>(options =>
-            options.UseMySql(Configuration["ConnectionStrings:DefaultConnection"]));
+                                                options.UseMySql(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<IProfesseurService, ProfesseurService>();
         }
 
