@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KLP6z2Y/+gU4wdmMp0SVTm51bGtiiNT8LXpiyTVbCSRit9YWs9Y1dv6OfrsgJHdPd5Pi17FbQWAPHFLTqgJcuA==",
+  "dgSpecHash": "/5YOIOpUT6r0qtoU4s05AGIFABUiA/PQgP7CrZu7EL/fEDk5V/P+0R4QQTc4BWJ/X0QlBPGOv7q1eWE84vP1hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\StartupApp\\Kelalsys.ESR.StartupApp.csproj",
+  "projectFilePath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelalsys.ESR.StartupApp\\Kelalsys.ESR.StartupApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Plamedi L. Lusembo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Plamedi L. Lusembo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
