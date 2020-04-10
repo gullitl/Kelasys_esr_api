@@ -30,8 +30,8 @@
   "libraries": {
     "Kelasys.ESR.Models/1.0.0": {
       "type": "project",
-      "path": "../Kelasys.ESR.Entity/Kelasys.ESR.Models.csproj",
-      "msbuildProject": "../Kelasys.ESR.Entity/Kelasys.ESR.Models.csproj"
+      "path": "../Kelasys.ESR.Models/Kelasys.ESR.Models.csproj",
+      "msbuildProject": "../Kelasys.ESR.Models/Kelasys.ESR.Models.csproj"
     },
     "Kelasys.ESR.Utils/1.0.0": {
       "type": "project",
@@ -76,6 +76,9 @@
           "projectReferences": {
             "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj": {
               "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj"
+            },
+            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Models\\Kelasys.ESR.Models.csproj": {
+              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Models\\Kelasys.ESR.Models.csproj"
             }
           }
         }

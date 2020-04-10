@@ -965,8 +965,8 @@
     },
     "Kelasys.ESR.Models/1.0.0": {
       "type": "project",
-      "path": "../Kelasys.ESR.Entity/Kelasys.ESR.Models.csproj",
-      "msbuildProject": "../Kelasys.ESR.Entity/Kelasys.ESR.Models.csproj"
+      "path": "../Kelasys.ESR.Models/Kelasys.ESR.Models.csproj",
+      "msbuildProject": "../Kelasys.ESR.Models/Kelasys.ESR.Models.csproj"
     },
     "Kelasys.ESR.Services/1.0.0": {
       "type": "project",

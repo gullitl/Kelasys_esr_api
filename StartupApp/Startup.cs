@@ -1,4 +1,4 @@
-using Kelasys.ESR.Contract;
+using Kelasys.ESR.Contracts;
 using Kelasys.ESR.DataAccess.Contexts;
 using Kelasys.ESR.Services;
 using Microsoft.AspNetCore.Builder;

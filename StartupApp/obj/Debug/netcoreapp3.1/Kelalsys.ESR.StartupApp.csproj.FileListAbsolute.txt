@@ -10,10 +10,6 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\De
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.runtimeconfig.dev.json
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.pdb
-C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contract.dll
-C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Entity.dll
-C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contract.pdb
-C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Entity.pdb
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.RazorTargetAssemblyInfo.cache
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.csproj.CopyComplete
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\staticwebassets\Kelalsys.ESR.StartupApp.StaticWebAssets.Manifest.cache
@@ -50,3 +46,7 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\De
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\obj\Debug\netcoreapp3.1\Kelalsys.ESR.StartupApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Models.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\StartupApp\bin\Debug\netcoreapp3.1\Kelasys.ESR.Models.pdb
