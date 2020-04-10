@@ -4,12 +4,12 @@
     "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\StartupApp\\Kelalsys.ESR.StartupApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contract.csproj": {
+    "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contract.csproj",
-        "projectName": "Kelasys.ESR.Contract",
-        "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contract.csproj",
+        "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj",
+        "projectName": "Kelasys.ESR.Contracts",
+        "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj",
         "packagesPath": "C:\\Users\\Plamedi L. Lusembo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\obj\\",
         "projectStyle": "PackageReference",
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj": {
-                "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj"
+              "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj": {
+                "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj"
               }
             }
           }
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj": {
-                "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj"
+              "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj": {
+                "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj"
               }
             }
           }
@@ -134,12 +134,12 @@
         }
       }
     },
-    "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj": {
+    "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj",
-        "projectName": "Kelasys.ESR.Entity",
-        "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj",
+        "projectName": "Kelasys.ESR.Models",
+        "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj",
         "packagesPath": "C:\\Users\\Plamedi L. Lusembo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\obj\\",
         "projectStyle": "PackageReference",
@@ -219,8 +219,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contract.csproj": {
-                "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contract.csproj"
+              "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj"
               },
               "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.DataAccess\\Kelasys.ESR.DataAccess.csproj": {
                 "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.DataAccess\\Kelasys.ESR.DataAccess.csproj"
@@ -336,8 +336,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contract.csproj": {
-                "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contract.csproj"
+              "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj"
               },
               "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Services\\Kelasys.ESR.Services.csproj": {
                 "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Services\\Kelasys.ESR.Services.csproj"

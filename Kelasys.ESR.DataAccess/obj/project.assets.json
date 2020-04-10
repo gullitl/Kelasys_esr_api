@@ -310,17 +310,17 @@
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
-      "Kelasys.ESR.Entity/1.0.0": {
+      "Kelasys.ESR.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Kelasys.ESR.Utils": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Kelasys.ESR.Entity.dll": {}
+          "bin/placeholder/Kelasys.ESR.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Kelasys.ESR.Entity.dll": {}
+          "bin/placeholder/Kelasys.ESR.Models.dll": {}
         }
       },
       "Kelasys.ESR.Utils/1.0.0": {
@@ -948,10 +948,10 @@
         "version.txt"
       ]
     },
-    "Kelasys.ESR.Entity/1.0.0": {
+    "Kelasys.ESR.Models/1.0.0": {
       "type": "project",
-      "path": "../Kelasys.ESR.Entity/Kelasys.ESR.Entity.csproj",
-      "msbuildProject": "../Kelasys.ESR.Entity/Kelasys.ESR.Entity.csproj"
+      "path": "../Kelasys.ESR.Entity/Kelasys.ESR.Models.csproj",
+      "msbuildProject": "../Kelasys.ESR.Entity/Kelasys.ESR.Models.csproj"
     },
     "Kelasys.ESR.Utils/1.0.0": {
       "type": "project",
@@ -961,7 +961,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Kelasys.ESR.Entity >= 1.0.0",
+      "Kelasys.ESR.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.0",
       "Pomelo.EntityFrameworkCore.MySql >= 3.1.1"
     ]
@@ -996,8 +996,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj": {
-              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj"
+            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj": {
+              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj"
             }
           }
         }

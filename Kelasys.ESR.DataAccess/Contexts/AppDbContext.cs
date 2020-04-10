@@ -1,4 +1,4 @@
-﻿using Kelasys.ESR.Entity;
+﻿using Kelasys.ESR.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Kelasys.ESR.DataAccess.Contexts {
@@ -25,10 +25,8 @@ namespace Kelasys.ESR.DataAccess.Contexts {
                 .WithMany(a => a.Eleves)
                 .HasForeignKey(e => new { e.AnneeEnseignement, e.NiveauxEnseignement });
 
-            modelBuilder.Entity<Membre>()
-                .HasOne(m => m.Utilisateur)
-                .WithOne(u => u.Membre)
-                .HasForeignKey<Utilisateur>(u => u.MembreId);
+            modelBuilder.Entity<Professeur>().HasOne(m => m.Utilisateur);
+            modelBuilder.Entity<Eleve>().HasOne(m => m.Utilisateur);
         }
 
         #endregion

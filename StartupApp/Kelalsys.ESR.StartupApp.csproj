@@ -12,12 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kelasys.ESR.Contract\Kelasys.ESR.Contract.csproj" />
+    <ProjectReference Include="..\Kelasys.ESR.Contract\Kelasys.ESR.Contracts.csproj" />
     <ProjectReference Include="..\Kelasys.ESR.Services\Kelasys.ESR.Services.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="DTOs\" />
   </ItemGroup>
 
 

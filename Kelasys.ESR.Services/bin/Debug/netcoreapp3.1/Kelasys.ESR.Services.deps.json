@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Kelasys.ESR.Services/1.0.0": {
         "dependencies": {
-          "Kelasys.ESR.Contract": "1.0.0",
+          "Kelasys.ESR.Contracts": "1.0.0",
           "Kelasys.ESR.DataAccess": "1.0.0"
         },
         "runtime": {
@@ -235,29 +235,29 @@
       "System.Collections.Immutable/1.7.0": {},
       "System.ComponentModel.Annotations/4.7.0": {},
       "System.Diagnostics.DiagnosticSource/4.7.0": {},
-      "Kelasys.ESR.Contract/1.0.0": {
+      "Kelasys.ESR.Contracts/1.0.0": {
         "dependencies": {
-          "Kelasys.ESR.Entity": "1.0.0"
+          "Kelasys.ESR.Models": "1.0.0"
         },
         "runtime": {
-          "Kelasys.ESR.Contract.dll": {}
+          "Kelasys.ESR.Contracts.dll": {}
         }
       },
       "Kelasys.ESR.DataAccess/1.0.0": {
         "dependencies": {
-          "Kelasys.ESR.Entity": "1.0.0",
+          "Kelasys.ESR.Models": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "3.1.1"
         },
         "runtime": {
           "Kelasys.ESR.DataAccess.dll": {}
         }
       },
-      "Kelasys.ESR.Entity/1.0.0": {
+      "Kelasys.ESR.Models/1.0.0": {
         "dependencies": {
           "Kelasys.ESR.Utils": "1.0.0"
         },
         "runtime": {
-          "Kelasys.ESR.Entity.dll": {}
+          "Kelasys.ESR.Models.dll": {}
         }
       },
       "Kelasys.ESR.Utils/1.0.0": {
@@ -448,7 +448,7 @@
       "path": "system.diagnostics.diagnosticsource/4.7.0",
       "hashPath": "system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512"
     },
-    "Kelasys.ESR.Contract/1.0.0": {
+    "Kelasys.ESR.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -458,7 +458,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Kelasys.ESR.Entity/1.0.0": {
+    "Kelasys.ESR.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

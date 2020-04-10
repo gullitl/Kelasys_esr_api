@@ -30,7 +30,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kelasys.ESR.Entity\Kelasys.ESR.Entity.csproj" />
+    <ProjectReference Include="..\Kelasys.ESR.Entity\Kelasys.ESR.Models.csproj" />
   </ItemGroup>
 
   <ItemGroup>

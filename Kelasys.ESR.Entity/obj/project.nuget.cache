@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JoPUIM7XnAiVhEy1UvLp50bpHNgvOJc1SCtjI31CJfMlrelYCyTDSRWZqJe/aSnQ1c8uUjwgKBxCLTn8nwi9dg==",
+  "dgSpecHash": "rDcOzc1RnXLiQCkP6lnayJYrZdkbISinQFSnVvr1ol1mDX9BKlv9V04ejbpsNWCanKbsFEksM2C1iRZGlOn0mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj",
+  "projectFilePath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

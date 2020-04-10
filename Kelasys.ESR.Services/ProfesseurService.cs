@@ -1,7 +1,7 @@
 ﻿
-using Kelasys.ESR.Contract;
+using Kelasys.ESR.Contracts;
 using Kelasys.ESR.DataAccess.Contexts;
-using Kelasys.ESR.Entity;
+using Kelasys.ESR.Models.Entities;
 
 namespace Kelasys.ESR.Services {
     public class ProfesseurService : CrudService<Professeur>, IProfesseurService {

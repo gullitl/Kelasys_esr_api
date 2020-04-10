@@ -2,17 +2,17 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Kelasys.ESR.Entity/1.0.0": {
+      "Kelasys.ESR.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Kelasys.ESR.Utils": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Kelasys.ESR.Entity.dll": {}
+          "bin/placeholder/Kelasys.ESR.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Kelasys.ESR.Entity.dll": {}
+          "bin/placeholder/Kelasys.ESR.Models.dll": {}
         }
       },
       "Kelasys.ESR.Utils/1.0.0": {
@@ -28,10 +28,10 @@
     }
   },
   "libraries": {
-    "Kelasys.ESR.Entity/1.0.0": {
+    "Kelasys.ESR.Models/1.0.0": {
       "type": "project",
-      "path": "../Kelasys.ESR.Entity/Kelasys.ESR.Entity.csproj",
-      "msbuildProject": "../Kelasys.ESR.Entity/Kelasys.ESR.Entity.csproj"
+      "path": "../Kelasys.ESR.Entity/Kelasys.ESR.Models.csproj",
+      "msbuildProject": "../Kelasys.ESR.Entity/Kelasys.ESR.Models.csproj"
     },
     "Kelasys.ESR.Utils/1.0.0": {
       "type": "project",
@@ -41,7 +41,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Kelasys.ESR.Entity >= 1.0.0"
+      "Kelasys.ESR.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,9 +51,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contract.csproj",
-      "projectName": "Kelasys.ESR.Contract",
-      "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contract.csproj",
+      "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj",
+      "projectName": "Kelasys.ESR.Contracts",
+      "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj",
       "packagesPath": "C:\\Users\\Plamedi L. Lusembo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\obj\\",
       "projectStyle": "PackageReference",
@@ -74,8 +74,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj": {
-              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj"
+            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj": {
+              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj"
             }
           }
         }

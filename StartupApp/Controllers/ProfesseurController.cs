@@ -1,5 +1,5 @@
-﻿using Kelasys.ESR.Contract;
-using Kelasys.ESR.Entity;
+﻿using Kelasys.ESR.Contracts;
+using Kelasys.ESR.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;

@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj",
-      "projectName": "Kelasys.ESR.Entity",
-      "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj",
+      "projectName": "Kelasys.ESR.Models",
+      "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\Kelasys.ESR.Models.csproj",
       "packagesPath": "C:\\Users\\Plamedi L. Lusembo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Entity\\obj\\",
       "projectStyle": "PackageReference",
