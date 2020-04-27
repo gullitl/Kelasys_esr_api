@@ -1,0 +1,28 @@
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.deps.json
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Models.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Models.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.csproj.CopyComplete
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.dll
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.pdb
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.deps.json
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.dll
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.pdb
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Models.dll
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Models.pdb
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.csproj.CopyComplete
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.dll
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Contract\obj\Debug\netcoreapp3.1\Kelasys.ESR.Contracts.pdb

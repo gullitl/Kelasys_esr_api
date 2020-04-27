@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kelasys.esr.Utils/1.0.0": {
+        "runtime": {
+          "Kelasys.esr.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kelasys.esr.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
