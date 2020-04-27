@@ -6,4 +6,11 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.AssemblyInfo.cs
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb
-C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.deps.json
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\bin\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.dll
+C:\Users\Plamedi L. Lusembo\source\Electronic School Record\Kelasys-esr\Kelasys_esr_api\Kelasys.ESR.Utils\obj\Debug\netcoreapp3.1\Kelasys.ESR.Utils.pdb

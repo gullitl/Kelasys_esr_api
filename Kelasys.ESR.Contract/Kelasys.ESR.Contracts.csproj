@@ -5,8 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kelasys.ESR.Entity\Kelasys.ESR.Models.csproj" />
-    <ProjectReference Include="..\Kelasys.ESR.Models\Kelasys.ESR.Models.csproj" />
+    <ProjectReference Include="..\Kelasys.esr.Models\Kelasys.esr.Models.csproj" />
   </ItemGroup>
 
 </Project>

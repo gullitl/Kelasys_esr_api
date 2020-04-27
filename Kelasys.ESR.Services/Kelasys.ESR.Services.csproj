@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kelasys.ESR.Contract\Kelasys.ESR.Contracts.csproj" />
-    <ProjectReference Include="..\Kelasys.ESR.DataAccess\Kelasys.ESR.DataAccess.csproj" />
+    <ProjectReference Include="..\Kelasys.esr.Contract\Kelasys.esr.Contracts.csproj" />
+    <ProjectReference Include="..\Kelasys.esr.DataAccess\Kelasys.esr.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

@@ -5,11 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kelasys.ESR.Utils\Kelasys.ESR.Utils.csproj" />
+    <Folder Include="DTOs\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
+    <ProjectReference Include="..\Kelasys.esr.Utils\Kelasys.esr.Utils.csproj" />
   </ItemGroup>
 
 </Project>

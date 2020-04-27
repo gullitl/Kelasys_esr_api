@@ -1,7 +1,7 @@
-﻿using Kelasys.ESR.Models.Entities;
+﻿using Kelasys.esr.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Kelasys.ESR.DataAccess.Contexts {
+namespace Kelasys.esr.DataAccess.Contexts {
     public class AppDbContext : DbContext {
 
         #region DbContext configurations

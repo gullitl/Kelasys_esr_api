@@ -1,11 +1,11 @@
-﻿using Kelasys.ESR.Utils.Enumerations;
+﻿using Kelasys.esr.Utils.Enumerations;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace Kelasys.ESR.Models.Entities {
+namespace Kelasys.esr.Models.Entities {
     [Table("utilisateur")]
     public class Utilisateur {
         [Key]

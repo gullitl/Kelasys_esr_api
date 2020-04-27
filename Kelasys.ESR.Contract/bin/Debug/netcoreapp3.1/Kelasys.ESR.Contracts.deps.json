@@ -6,41 +6,41 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Kelasys.ESR.Contracts/1.0.0": {
+      "Kelasys.esr.Contracts/1.0.0": {
         "dependencies": {
-          "Kelasys.ESR.Models": "1.0.0"
+          "Kelasys.esr.Models": "1.0.0"
         },
         "runtime": {
-          "Kelasys.ESR.Contracts.dll": {}
+          "Kelasys.esr.Contracts.dll": {}
         }
       },
-      "Kelasys.ESR.Models/1.0.0": {
+      "Kelasys.esr.Models/1.0.0": {
         "dependencies": {
-          "Kelasys.ESR.Utils": "1.0.0"
+          "Kelasys.esr.Utils": "1.0.0"
         },
         "runtime": {
-          "Kelasys.ESR.Models.dll": {}
+          "Kelasys.esr.Models.dll": {}
         }
       },
-      "Kelasys.ESR.Utils/1.0.0": {
+      "Kelasys.esr.Utils/1.0.0": {
         "runtime": {
-          "Kelasys.ESR.Utils.dll": {}
+          "Kelasys.esr.Utils.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Kelasys.ESR.Contracts/1.0.0": {
+    "Kelasys.esr.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Kelasys.ESR.Models/1.0.0": {
+    "Kelasys.esr.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Kelasys.ESR.Utils/1.0.0": {
+    "Kelasys.esr.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

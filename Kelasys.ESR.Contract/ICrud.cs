@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Kelasys.ESR.Contracts {
+namespace Kelasys.esr.Contracts {
     public interface ICrud<TEntity> {
         Task<List<TEntity>> GetAll();
         Task<TEntity> GetById(int id);

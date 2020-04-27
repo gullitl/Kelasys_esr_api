@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
-using System.Text;
 
-namespace Kelasys.ESR.Utils.Extentions {
+namespace Kelasys.esr.Utils.Extentions {
     public static class Extention {
 
         public static string GetEnumDescription(this Enum value) {

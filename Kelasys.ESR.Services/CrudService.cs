@@ -1,9 +1,9 @@
-﻿using Kelasys.ESR.DataAccess.Contexts;
+﻿using Kelasys.esr.DataAccess.Contexts;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Kelasys.ESR.Services {
+namespace Kelasys.esr.Services {
     public abstract class CrudService<TEntity> where TEntity : class {
         private AppDbContext Context { get; }
 

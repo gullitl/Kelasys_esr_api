@@ -1,6 +1,6 @@
-﻿using Kelasys.ESR.Models.Entities;
+﻿using Kelasys.esr.Models.Entities;
 
-namespace Kelasys.ESR.Contracts {
+namespace Kelasys.esr.Contracts {
     public interface IInstitutionService : ICrud<Institution> {
     }
 }

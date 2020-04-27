@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Kelasys.ESR.Utils.Enumerations {
+namespace Kelasys.esr.Utils.Enumerations {
     public enum AnneeEnseignement {
         [Description("1ère Année")] Primaire_Annee,
         [Description("2nde Année")] Seconde_Annee,

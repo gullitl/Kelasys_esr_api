@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Kelasys.ESR.Utils/1.0.0": {
+      "Kelasys.esr.Utils/1.0.0": {
         "runtime": {
-          "Kelasys.ESR.Utils.dll": {}
+          "Kelasys.esr.Utils.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Kelasys.ESR.Utils/1.0.0": {
+    "Kelasys.esr.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

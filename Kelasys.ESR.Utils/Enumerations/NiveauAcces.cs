@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Kelasys.ESR.Utils.Enumerations {
+namespace Kelasys.esr.Utils.Enumerations {
     public enum NiveauAcces {
         [Description("Administrateur")] Administrateur,
         [Description("Utilisateur")] Utilisateur

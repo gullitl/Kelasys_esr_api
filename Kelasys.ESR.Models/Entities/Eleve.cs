@@ -1,8 +1,8 @@
 ﻿
-using Kelasys.ESR.Utils.Enumerations;
+using Kelasys.esr.Utils.Enumerations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Kelasys.ESR.Models.Entities {
+namespace Kelasys.esr.Models.Entities {
     [Table("eleve")]
     public class Eleve : Membre {
         

@@ -282,54 +282,54 @@
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
-      "Kelasys.ESR.Contracts/1.0.0": {
+      "Kelasys.esr.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Kelasys.ESR.Models": "1.0.0"
+          "Kelasys.esr.Models": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Kelasys.ESR.Contracts.dll": {}
+          "bin/placeholder/Kelasys.esr.Contracts.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Kelasys.ESR.Contracts.dll": {}
+          "bin/placeholder/Kelasys.esr.Contracts.dll": {}
         }
       },
-      "Kelasys.ESR.DataAccess/1.0.0": {
+      "Kelasys.esr.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Kelasys.ESR.Models": "1.0.0",
+          "Kelasys.esr.Models": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "3.1.1"
         },
         "compile": {
-          "bin/placeholder/Kelasys.ESR.DataAccess.dll": {}
+          "bin/placeholder/Kelasys.esr.DataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Kelasys.ESR.DataAccess.dll": {}
+          "bin/placeholder/Kelasys.esr.DataAccess.dll": {}
         }
       },
-      "Kelasys.ESR.Models/1.0.0": {
+      "Kelasys.esr.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Kelasys.ESR.Utils": "1.0.0"
+          "Kelasys.esr.Utils": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Kelasys.ESR.Models.dll": {}
+          "bin/placeholder/Kelasys.esr.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Kelasys.ESR.Models.dll": {}
+          "bin/placeholder/Kelasys.esr.Models.dll": {}
         }
       },
-      "Kelasys.ESR.Utils/1.0.0": {
+      "Kelasys.esr.Utils/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Kelasys.ESR.Utils.dll": {}
+          "bin/placeholder/Kelasys.esr.Utils.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Kelasys.ESR.Utils.dll": {}
+          "bin/placeholder/Kelasys.esr.Utils.dll": {}
         }
       }
     }
@@ -906,31 +906,31 @@
         "version.txt"
       ]
     },
-    "Kelasys.ESR.Contracts/1.0.0": {
+    "Kelasys.esr.Contracts/1.0.0": {
       "type": "project",
-      "path": "../Kelasys.ESR.Contract/Kelasys.ESR.Contracts.csproj",
-      "msbuildProject": "../Kelasys.ESR.Contract/Kelasys.ESR.Contracts.csproj"
+      "path": "../Kelasys.esr.Contract/Kelasys.esr.Contracts.csproj",
+      "msbuildProject": "../Kelasys.esr.Contract/Kelasys.esr.Contracts.csproj"
     },
-    "Kelasys.ESR.DataAccess/1.0.0": {
+    "Kelasys.esr.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../Kelasys.ESR.DataAccess/Kelasys.ESR.DataAccess.csproj",
-      "msbuildProject": "../Kelasys.ESR.DataAccess/Kelasys.ESR.DataAccess.csproj"
+      "path": "../Kelasys.esr.DataAccess/Kelasys.esr.DataAccess.csproj",
+      "msbuildProject": "../Kelasys.esr.DataAccess/Kelasys.esr.DataAccess.csproj"
     },
-    "Kelasys.ESR.Models/1.0.0": {
+    "Kelasys.esr.Models/1.0.0": {
       "type": "project",
-      "path": "../Kelasys.ESR.Models/Kelasys.ESR.Models.csproj",
-      "msbuildProject": "../Kelasys.ESR.Models/Kelasys.ESR.Models.csproj"
+      "path": "../Kelasys.esr.Models/Kelasys.esr.Models.csproj",
+      "msbuildProject": "../Kelasys.esr.Models/Kelasys.esr.Models.csproj"
     },
-    "Kelasys.ESR.Utils/1.0.0": {
+    "Kelasys.esr.Utils/1.0.0": {
       "type": "project",
-      "path": "../Kelasys.ESR.Utils/Kelasys.ESR.Utils.csproj",
-      "msbuildProject": "../Kelasys.ESR.Utils/Kelasys.ESR.Utils.csproj"
+      "path": "../Kelasys.esr.Utils/Kelasys.esr.Utils.csproj",
+      "msbuildProject": "../Kelasys.esr.Utils/Kelasys.esr.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Kelasys.ESR.Contracts >= 1.0.0",
-      "Kelasys.ESR.DataAccess >= 1.0.0"
+      "Kelasys.esr.Contracts >= 1.0.0",
+      "Kelasys.esr.DataAccess >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -940,11 +940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Services\\Kelasys.ESR.Services.csproj",
-      "projectName": "Kelasys.ESR.Services",
-      "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Services\\Kelasys.ESR.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Services\\Kelasys.esr.Services.csproj",
+      "projectName": "Kelasys.esr.Services",
+      "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Services\\Kelasys.esr.Services.csproj",
       "packagesPath": "C:\\Users\\Plamedi L. Lusembo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Services\\obj\\",
+      "outputPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -963,11 +963,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj": {
-              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Contract\\Kelasys.ESR.Contracts.csproj"
+            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Contract\\Kelasys.esr.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Contract\\Kelasys.esr.Contracts.csproj"
             },
-            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.DataAccess\\Kelasys.ESR.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.DataAccess\\Kelasys.ESR.DataAccess.csproj"
+            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.DataAccess\\Kelasys.esr.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.DataAccess\\Kelasys.esr.DataAccess.csproj"
             }
           }
         }

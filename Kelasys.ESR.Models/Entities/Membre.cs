@@ -1,6 +1,6 @@
-﻿using Kelasys.ESR.Utils.Enumerations;
+﻿using Kelasys.esr.Utils.Enumerations;
 
-namespace Kelasys.ESR.Models.Entities {
+namespace Kelasys.esr.Models.Entities {
     public class Membre : EntityBase{
         public string Nom { get; set; }
         public string Postnom { get; set; }

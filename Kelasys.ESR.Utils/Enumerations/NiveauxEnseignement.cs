@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Kelasys.ESR.Utils.Enumerations {
+namespace Kelasys.esr.Utils.Enumerations {
     public enum NiveauxEnseignement {
         [Description("Maternel")] Maternel,
         [Description("Primaire")] Primaire,

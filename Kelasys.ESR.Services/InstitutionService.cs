@@ -1,9 +1,9 @@
 ﻿
-using Kelasys.ESR.Contracts;
-using Kelasys.ESR.DataAccess.Contexts;
-using Kelasys.ESR.Models.Entities;
+using Kelasys.esr.Contracts;
+using Kelasys.esr.DataAccess.Contexts;
+using Kelasys.esr.Models.Entities;
 
-namespace Kelasys.ESR.Services {
+namespace Kelasys.esr.Services {
     public class InstitutionService : CrudService<Institution>, IInstitutionService {
         public InstitutionService(AppDbContext context) : base(context) {
         }

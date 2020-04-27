@@ -1,10 +1,10 @@
-﻿using Kelasys.ESR.Utils.Enumerations;
-using Kelasys.ESR.Utils.Extentions;
+﻿using Kelasys.esr.Utils.Enumerations;
+using Kelasys.esr.Utils.Extentions;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Kelasys.ESR.Models.Entities {
+namespace Kelasys.esr.Models.Entities {
     [Table("anneescolaire")]
     public class AnneeScolaire {
         [Key, Column(Order = 0)]

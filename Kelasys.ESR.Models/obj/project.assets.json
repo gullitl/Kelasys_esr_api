@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Kelasys.ESR.Utils/1.0.0": {
+      "Kelasys.esr.Utils/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Kelasys.ESR.Utils.dll": {}
+          "bin/placeholder/Kelasys.esr.Utils.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Kelasys.ESR.Utils.dll": {}
+          "bin/placeholder/Kelasys.esr.Utils.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Kelasys.ESR.Utils/1.0.0": {
+    "Kelasys.esr.Utils/1.0.0": {
       "type": "project",
-      "path": "../Kelasys.ESR.Utils/Kelasys.ESR.Utils.csproj",
-      "msbuildProject": "../Kelasys.ESR.Utils/Kelasys.ESR.Utils.csproj"
+      "path": "../Kelasys.esr.Utils/Kelasys.esr.Utils.csproj",
+      "msbuildProject": "../Kelasys.esr.Utils/Kelasys.esr.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Kelasys.ESR.Utils >= 1.0.0"
+      "Kelasys.esr.Utils >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Models\\Kelasys.ESR.Models.csproj",
-      "projectName": "Kelasys.ESR.Models",
-      "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Models\\Kelasys.ESR.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Models\\Kelasys.esr.Models.csproj",
+      "projectName": "Kelasys.esr.Models",
+      "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Models\\Kelasys.esr.Models.csproj",
       "packagesPath": "C:\\Users\\Plamedi L. Lusembo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Models\\obj\\",
+      "outputPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,8 +56,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Utils\\Kelasys.ESR.Utils.csproj": {
-              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.ESR.Utils\\Kelasys.ESR.Utils.csproj"
+            "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Utils\\Kelasys.esr.Utils.csproj": {
+              "projectPath": "C:\\Users\\Plamedi L. Lusembo\\source\\Kelasys-esr\\Kelasys_esr_api\\Kelasys.esr.Utils\\Kelasys.esr.Utils.csproj"
             }
           }
         }
