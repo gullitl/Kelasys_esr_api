@@ -111,7 +111,6 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\b
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
-C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\obj\Debug\netcoreapp3.1\Kelasys.esr.App.csprojAssemblyReference.cache
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\obj\Debug\netcoreapp3.1\Kelasys.esr.App.csproj.CoreCompileInputs.cache
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\obj\Debug\netcoreapp3.1\Kelasys.esr.App.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\obj\Debug\netcoreapp3.1\Kelasys.esr.App.AssemblyInfoInputs.cache
@@ -123,3 +122,4 @@ C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\o
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\obj\Debug\netcoreapp3.1\Kelasys.esr.App.dll
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\obj\Debug\netcoreapp3.1\Kelasys.esr.App.pdb
 C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\obj\Debug\netcoreapp3.1\Kelasys.esr.App.genruntimeconfig.cache
+C:\Users\Plamedi L. Lusembo\source\Kelasys-esr\Kelasys_esr_api\Kelasys.esr.App\obj\Debug\netcoreapp3.1\Kelasys.esr.App.csprojAssemblyReference.cache
